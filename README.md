@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @111202012411
+- 👀 I’m interested in text/plain
+- 🌱 I’m currently learning gnulinux
+- 💞️ I’m looking to collaborate on skulluglify
+- 📫 How to reach me <111202012411@mhs.dinus.ac.id/>
